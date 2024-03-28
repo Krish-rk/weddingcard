@@ -1,0 +1,67 @@
+.hello {
+  color: yellow;
+}
+.bg-container {
+  padding: 20px;
+}
+
+.wedding {
+  font-family: Sail;
+  color: #586245;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  margin-right: 150px;
+}
+.nav-item {
+  font-family: ;
+  font-weight: 500;
+  font-size: 16px;
+  margin: 30px;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.frame-card {
+  text-align: center;
+}
+
+.sec1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sec-2 {
+  text-align: center;
+}
+
+.wed-image {
+  height: 600px;
+  margin-top: 100px;
+}
+.sec-3 {
+  text-align: center;
+}
+
+.schedule-image {
+  width: 65%;
+}
+
+.rsvp-container {
+  background-image: url("https://tweakindia.com/wp-content/uploads/2019/11/wedding-getting-married.jpg");
+  background-size: cover;
+
+  min-height: 850px;
+  min-width: 80%;
+  margin: 40px;
+}
+.form {
+  background-color: white;
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+}
