@@ -48,7 +48,7 @@
 }
 
 .schedule-image {
-  width: 65%;
+  width: 60%;
 }
 
 .rsvp-container {
@@ -56,12 +56,63 @@
   background-size: cover;
 
   min-height: 850px;
-  min-width: 80%;
-  margin: 40px;
+  min-width: 60%;
+  margin: 100px;
+  padding: 10px;
 }
 .form {
   background-color: white;
-  width: 50%;
+  width: 30%;
   padding: 20px;
   border-radius: 20px;
+  margin: 40px;
+}
+
+.label1 {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.input-field {
+  border: none;
+  border-bottom: 2px solid black;
+}
+.check-field {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.button {
+  margin: 30px;
+  background-color: #586245;
+  font-size: 25px;
+  font-weight: lighter;
+  color: white;
+  height: 70px;
+  width: 150px;
+  border-radius: 5px;
+}
+.sec-4 {
+  text-align: center;
+}
+.when {
+  width: 60%;
+}
+
+.sec-5 {
+  text-align: center;
+}
+
+.gallery {
+}
+
+body {
+  margin: 0;
+  background-color: #ffecc6;
+}
+* {
+  box-sizing: border-box;
 }
